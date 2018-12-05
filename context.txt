@@ -1,0 +1,17 @@
+// Blocks IO is reading pins
+// RandomBlockGenerator generates population
+// Random() gives out random from a max value
+// search() searches for a character in an array
+// getUniqueCode does this. Suppose blocks ifelse, ifelse, then it will output 1 and 2
+// getAllPins reads input pin of all blocks
+// GetAllPinsWOnumber gives out pins but it does not have a unique code
+// atiANDaanl can be seen in copy
+// aini too
+// aan too
+// joinBlockandOut outputs the ifelse1 , ifelse2
+// joinBlockandPinANDblockIndex does this block1.pin1 block2.pin1
+// GetPinNumber gives out (Needs to be seen in copy)
+// NumberOfPins gives out number of pins in an block
+// Connect joins wires of different pins
+// GetNumber here does this suppose ifelse block1 ifelse, So it will output 1 0 1
+// CountInteger counts the number of a char in an array
